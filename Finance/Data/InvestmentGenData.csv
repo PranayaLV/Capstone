@@ -1,0 +1,51 @@
+InvestmentID,InvestmentName,Type,RiskLevel,Duration
+1,Government Bonds,Bonds,Low,5 years
+2,Corporate Bonds,Bonds,Medium,3 years
+3,S&P 500 Index Fund,Stocks,High,Long-term
+4,Technology Stocks,Stocks,Very High,Medium-term
+5,Real Estate Investment Trust (REIT),Real Estate,Medium,Long-term
+6,Rental Properties,Real Estate,High,Long-term
+7,Vanguard Total Stock Market ETF,Stocks,Medium,Long-term
+8,Emerging Market Bonds,Bonds,High,Medium-term
+9,Gold ETF,Commodity,Medium,Medium-term
+10,Blue-Chip Stocks,Stocks,Low,Long-term
+11,High-Yield Corporate Bonds,Bonds,High,Medium-term
+12,Growth Mutual Fund,Mutual Funds,High,Long-term
+13,Energy Stocks,Stocks,Very High,Medium-term
+14,Municipal Bonds,Bonds,Low,5 years
+15,Technology Mutual Fund,Mutual Funds,High,Long-term
+16,Real Estate Crowdfunding,Real Estate,High,Medium-term
+17,Renewable Energy Stocks,Stocks,High,Long-term
+18,Dividend Growth Stocks,Stocks,Medium,Long-term
+19,Health Care Mutual Fund,Mutual Funds,Medium,Long-term
+20,Treasury Inflation-Protected Securities (TIPS),Bonds,Low,10 years
+21,International Stocks,Stocks,High,Long-term
+22,US Treasury Bonds,Bonds,Low,10 years
+23,Emerging Market Stocks,Stocks,Very High,Medium-term
+24,Real Estate Investment (REIT),Real Estate,Medium,Long-term
+25,Small-Cap Stocks,Stocks,Very High,Long-term
+26,Municipal Bond ETF,Bonds,Low,5 years
+27,Global Equity Fund,Mutual Funds,Medium,Long-term
+28,High-Yield Savings Account,Cash,Low,Short-term
+29,Value Stocks,Stocks,Medium,Long-term
+30,Investment-Grade Corporate Bonds,Bonds,Low,7 years
+31,Real Estate Crowdfunding,Real Estate,High,Medium-term
+32,Balanced Mutual Fund,Mutual Funds,Medium,Long-term
+33,Technology Sector ETF,Stocks,Very High,Medium-term
+34,Government Bond ETF,Bonds,Low,5 years
+35,Healthcare Sector ETF,Stocks,Medium,Long-term
+36,Emerging Markets Bond Fund,Bonds,High,Medium-term
+37,Real Estate Development,Real Estate,High,Long-term
+38,US Large-Cap Growth Stocks,Stocks,High,Long-term
+39,Municipal Bond Fund,Bonds,Low,7 years
+40,Dividend ETF,Stocks,Medium,Long-term
+41,Renewable Energy Mutual Fund,Mutual Funds,Medium,Long-term
+42,Corporate Bond ETF,Bonds,Medium,5 years
+43,Real Estate Limited Partnership,Real Estate,High,Long-term
+44,Gold Mining Stocks,Stocks,High,Medium-term
+45,US Small-Cap Value Stocks,Stocks,Very High,Long-term
+46,Global Bond Fund,Bonds,Medium,Long-term
+47,Technology Sector Mutual Fund,Mutual Funds,High,Long-term
+48,Real Estate Investment Trust ETF,Real Estate,Medium,Long-term
+49,Short-Term Treasury Bond ETF,Bonds,Low,3 years
+50,Infrastructure Stocks,Stocks,High,Long-term
