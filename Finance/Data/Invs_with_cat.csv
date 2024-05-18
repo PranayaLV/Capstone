@@ -1,0 +1,51 @@
+,ID,Investment,Asset Class,Risk Level,Duration (Years),Risk_cat,Dur_cat
+0,1,Government Bonds,Bonds,0.2,2,Low,Short-term
+1,2,Corporate Bonds,Bonds,0.4,3,Med,Short-term
+2,3,S&P 500 Index Fund,Stocks,0.6,5,Med,Short-term
+3,4,Technology Stocks,Stocks,0.8,7,High,long-term
+4,5,Real Estate Investment Trust (REIT),Real Estate,0.4,5,Med,Short-term
+5,6,Rental Properties,Real Estate,0.6,10,Med,long-term
+6,7,Vanguard Total Stock Market ETF,Stocks,0.4,5,Med,Short-term
+7,8,Emerging Market Bonds,Bonds,0.6,8,Med,long-term
+8,10,Blue-Chip Stocks,Stocks,0.2,4,Low,Short-term
+9,11,High-Yield Corporate Bonds,Bonds,0.6,7,Med,long-term
+10,12,Growth Mutual Fund,Mutual Funds,0.6,6,Med,Short-term
+11,13,Energy Stocks,Stocks,0.8,9,High,long-term
+12,14,Municipal Bonds,Bonds,0.2,3,Low,Short-term
+13,15,Technology Mutual Fund,Mutual Funds,0.6,6,Med,Short-term
+14,16,Real Estate Crowdfunding,Real Estate,0.6,8,Med,long-term
+15,17,Renewable Energy Stocks,Stocks,0.6,7,Med,long-term
+16,18,Dividend Growth Stocks,Stocks,0.4,6,Med,Short-term
+17,19,Health Care Mutual Fund,Mutual Funds,0.4,6,Med,Short-term
+18,20,Treasury Inflation-Protected Securities (TIPS),Bonds,0.2,10,Low,long-term
+19,21,International Stocks,Stocks,0.6,7,Med,long-term
+20,22,US Treasury Bonds,Bonds,0.2,10,Low,long-term
+21,23,Emerging Market Stocks,Stocks,0.8,9,High,long-term
+22,24,Real Estate Investment (REIT),Real Estate,0.4,5,Med,Short-term
+23,25,Small-Cap Stocks,Stocks,0.8,9,High,long-term
+24,26,Municipal Bond ETF,Bonds,0.2,3,Low,Short-term
+25,27,Global Equity Fund,Mutual Funds,0.4,6,Med,Short-term
+26,28,Value Stocks,Stocks,0.4,6,Med,Short-term
+27,29,Real Estate Crowdfunding,Real Estate,0.6,8,Med,long-term
+28,30,Balanced Mutual Fund,Mutual Funds,0.4,6,Med,Short-term
+29,31,Technology Sector ETF,Stocks,0.8,9,High,long-term
+30,34,Government Bond ETF,Bonds,0.2,2,Low,Short-term
+31,35,Healthcare Sector ETF,Stocks,0.4,6,Med,Short-term
+32,36,Emerging Markets Bond Fund,Bonds,0.6,8,Med,long-term
+33,37,Real Estate Development,Real Estate,0.6,10,Med,long-term
+34,38,US Large-Cap Growth Stocks,Stocks,0.6,7,Med,long-term
+35,39,Municipal Bond Fund,Bonds,0.2,3,Low,Short-term
+36,40,Dividend ETF,Stocks,0.4,6,Med,Short-term
+37,41,Renewable Energy Mutual Fund,Mutual Funds,0.4,6,Med,Short-term
+38,42,Corporate Bond ETF,Bonds,0.4,3,Med,Short-term
+39,43,Real Estate Limited Partnership,Real Estate,0.6,10,Med,long-term
+40,44,Gold Mining Stocks,Stocks,0.6,7,Med,long-term
+41,45,US Small-Cap Value Stocks,Stocks,0.8,9,High,long-term
+42,46,Global Bond Fund,Bonds,0.4,6,Med,Short-term
+43,47,Technology Sector Mutual Fund,Mutual Funds,0.6,8,Med,long-term
+44,48,Real Estate Investment Trust ETF,Real Estate,0.4,5,Med,Short-term
+45,49,Short-Term Treasury Bond ETF,Bonds,0.2,2,Low,Short-term
+46,50,Infrastructure Stocks,Stocks,0.6,7,Med,long-term
+47,48,Real Estate Investment Trust ETF,Real Estate,0.4,5,Med,Short-term
+48,49,Short-Term Treasury Bond ETF,Bonds,0.2,2,Low,Short-term
+49,50,Infrastructure Stocks,Stocks,0.6,7,Med,long-term
