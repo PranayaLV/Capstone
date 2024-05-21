@@ -1,0 +1,81 @@
+ID,Investment,Asset Class,Risk Level,Duration (Years)
+1,Residential Apartment Complex,Real Estate,0.7,10
+2,Commercial Office Building,Real Estate,0.8,15
+3,Hotel and Resort Property,Real Estate,0.9,12
+4,Rental Properties,Real Estate,0.6,10
+5,Real Estate Crowdfunding,Real Estate,0.6,7
+6,Global Real Estate Investment Trusts (REITs),Real Estate,0.5,8
+7,Distressed Real Estate,Real Estate,0.9,10
+8,Rural Land Investments,Real Estate,0.7,20
+9,Real Estate Development Projects,Real Estate,0.8,10
+10,Real Estate Investment Trust (REIT),Real Estate,0.4,5
+11,Student Housing Investments,Real Estate,0.7,12
+12,Self-Storage Facilities,Real Estate,0.6,15
+13,Industrial Warehouse Properties,Real Estate,0.8,12
+14,Medical Office Buildings,Real Estate,0.7,10
+15,Data Center Real Estate Investment,Real Estate,0.8,15
+16,Senior Living Facilities,Real Estate,0.7,12
+17,Mixed-Use Property Investments,Real Estate,0.6,10
+18,Real Estate Syndications,Real Estate,0.7,8
+19,Real Estate Investment Trust (REIT) Exchange-Traded Funds (ETFs),Real Estate,0.4,5
+20,Real Estate Limited Partnerships,Real Estate,0.8,9
+21,Consumer Staples Stocks,Stocks,0.4,6
+22,Artificial Intelligence Stocks,Stocks,0.8,6
+23,Small-Cap Stocks,Stocks,0.7,6
+24,Index Funds,Stocks,0.4,5
+25,Robotics and Automation Stocks,Stocks,0.8,6
+26,Cannabis Stocks,Stocks,0.9,5
+27,Preferred Stocks,Stocks,0.4,6
+28,Frontier Market Stocks,Stocks,0.9,8
+29,High-Dividend Stocks,Stocks,0.6,7
+30,Convertible Preferred Stocks,Stocks,0.5,6
+31,Artificial Intelligence ETFs,Stocks,0.7,5
+32,Blockchain Technology Stocks,Stocks,0.8,7
+33,Foreign Exchange (Forex),Stocks,0.8,4
+34,Growth Stocks,Stocks,0.7,5
+35,Real Estate Investment Trust (REIT) ETFs,Real Estate,0.4,5
+36,Consumer Discretionary Stocks,Stocks,0.6,7
+37,Financial Sector Stocks,Stocks,0.6,6
+38,Technology Sector ETFs,Stocks,0.6,5
+39,ESG stocks,Stocks,0.5,6
+40,Global Equity Funds,Stocks,0.6,6
+41,Growth Mutual Fund,Mutual Funds,0.6,6
+42,Index Mutual Fund,Mutual Funds,0.5,5
+43,Bond Mutual Fund,Mutual Funds,0.4,4
+44,Balanced Mutual Fund,Mutual Funds,0.5,6
+45,Global Equity Mutual Fund,Mutual Funds,0.6,6
+46,Dividend Mutual Fund,Mutual Funds,0.5,5
+47,Sector Mutual Fund,Mutual Funds,0.7,7
+48,International Mutual Fund,Mutual Funds,0.7,6
+49,Small-Cap Mutual Fund,Mutual Funds,0.7,6
+50,Large-Cap Mutual Fund,Mutual Funds,0.4,5
+51,High-Yield Bond Mutual Fund,Mutual Funds,0.6,7
+52,Mid-Cap Mutual Fund,Mutual Funds,0.6,6
+53,Value Mutual Fund,Mutual Funds,0.5,6
+54,Target-Date Mutual Fund,Mutual Funds,0.4,5
+55,Income Mutual Fund,Mutual Funds,0.4,4
+56,Multi-Asset Mutual Fund,Mutual Funds,0.6,6
+57,Money Market Mutual Fund,Mutual Funds,0.2,2
+58,Alternative Mutual Fund,Mutual Funds,0.7,7
+59,Real Estate Mutual Fund,Mutual Funds,0.5,6
+60,Emerging Markets Mutual Fund,Mutual Funds,0.7,6
+61,Corporate Bonds,Bonds,0.4,3
+62,Government Bonds,Bonds,0.2,2
+63,High-Yield Bonds,Bonds,0.6,5
+64,Municipal Bonds,Bonds,0.3,5
+65,Convertible Bonds,Bonds,0.5,7
+66,Global Bonds,Bonds,0.6,6
+67,Inflation-Protected Bonds,Bonds,0.3,4
+68,Short-Term Bonds,Bonds,0.3,3
+69,Long-Term Bonds,Bonds,0.4,8
+70,Intermediate-Term Bonds,Bonds,0.4,5
+71,Emerging Market Bonds,Bonds,0.6,8
+72,Index-linked Bonds,Bonds,0.5,5
+73,Floating Rate Bonds,Bonds,0.4,4
+74,Convertible Bond Funds,Bonds,0.5,6
+75,Corporate Bond ETFs,Bonds,0.4,5
+76,High-Yield Bond Funds,Bonds,0.6,6
+77,Government Bond Funds,Bonds,0.3,4
+78,Global Bond Funds,Bonds,0.6,6
+79,Municipal Bond Funds,Bonds,0.3,5
+80,Inflation-Protected Bond Funds,Bonds,0.4,6
