@@ -1,0 +1,51 @@
+﻿ID,Investment,Asset Class,Risk Level,Duration (Years)
+1,Government Bonds,Bonds,0.2,2
+2,Corporate Bonds,Bonds,0.4,3
+3,S&P 500 Index Fund,Stocks,0.6,5
+4,Technology Stocks,Stocks,0.8,7
+5,Real Estate Investment Trust (REIT),Real Estate,0.4,5
+6,Rental Properties,Real Estate,0.6,10
+7,Vanguard Total Stock Market ETF,Stocks,0.4,5
+8,Emerging Market Bonds,Bonds,0.6,8
+9,Gold ETF,Commodity,0.4,5
+10,Blue-Chip Stocks,Stocks,0.2,4
+11,High-Yield Corporate Bonds,Bonds,0.6,7
+12,Growth Mutual Fund,Mutual Funds,0.6,6
+13,Energy Stocks,Stocks,0.8,9
+14,Municipal Bonds,Bonds,0.2,3
+15,Technology Mutual Fund,Mutual Funds,0.6,6
+16,Real Estate Crowdfunding,Real Estate,0.6,8
+17,Renewable Energy Stocks,Stocks,0.6,7
+18,Dividend Growth Stocks,Stocks,0.4,6
+19,Health Care Mutual Fund,Mutual Funds,0.4,6
+20,Treasury Inflation-Protected Securities (TIPS),Bonds,0.2,10
+21,International Stocks,Stocks,0.6,7
+22,US Treasury Bonds,Bonds,0.2,10
+23,Emerging Market Stocks,Stocks,0.8,9
+24,Real Estate Investment (REIT),Real Estate,0.4,5
+25,Small-Cap Stocks,Stocks,0.8,9
+26,Municipal Bond ETF,Bonds,0.2,3
+27,Global Equity Fund,Mutual Funds,0.4,6
+28,High-Yield Savings Account,Cash,0.2,3
+29,Value Stocks,Stocks,0.4,6
+30,Investment-Grade Corporate Bonds,Bonds,0.2,5
+31,Real Estate Crowdfunding,Real Estate,0.6,8
+32,Balanced Mutual Fund,Mutual Funds,0.4,6
+33,Technology Sector ETF,Stocks,0.8,9
+34,Government Bond ETF,Bonds,0.2,2
+35,Healthcare Sector ETF,Stocks,0.4,6
+36,Emerging Markets Bond Fund,Bonds,0.6,8
+37,Real Estate Development,Real Estate,0.6,10
+38,US Large-Cap Growth Stocks,Stocks,0.6,7
+39,Municipal Bond Fund,Bonds,0.2,3
+40,Dividend ETF,Stocks,0.4,6
+41,Renewable Energy Mutual Fund,Mutual Funds,0.4,6
+42,Corporate Bond ETF,Bonds,0.4,3
+43,Real Estate Limited Partnership,Real Estate,0.6,10
+44,Gold Mining Stocks,Stocks,0.6,7
+45,US Small-Cap Value Stocks,Stocks,0.8,9
+46,Global Bond Fund,Bonds,0.4,6
+47,Technology Sector Mutual Fund,Mutual Funds,0.6,8
+48,Real Estate Investment Trust ETF,Real Estate,0.4,5
+49,Short-Term Treasury Bond ETF,Bonds,0.2,2
+50,Infrastructure Stocks,Stocks,0.6,7
